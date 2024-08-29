@@ -1,2 +1,5 @@
-# git215_setup
-Module 1 Homework assignment
+# git215_setup 
+
+## Author: Maiah Koslovsky  
+
+
